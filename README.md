@@ -27,4 +27,4 @@ cd ipl-match-predictor
 pip install -r requirements.txt
 streamlit run app.py
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/Screenshot 2025-06-09 182851.png)
