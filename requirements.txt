@@ -1,6 +1,4 @@
-Add all required Python packages:
 
-```txt
 streamlit
 scikit-learn
 pandas
